@@ -62,7 +62,7 @@ The defaults target the Philippine market (PH mobile-number validation, country 
 
 ## Related
 
-For any other technical work (scripts, automations, APIs, web apps), see [claude-code-build-loop](https://github.com/RNLGWP/claude-code-build-loop), the general-purpose version of the same loop.
+For any other technical work (scripts, automations, APIs, web apps), see [claude-code-build-loop](https://github.com/BOSSRNL/claude-code-build-loop), the general-purpose version of the same loop.
 
 ## License
 
@@ -70,4 +70,4 @@ MIT. Use it, fork it, adapt it. A link back is appreciated.
 
 ---
 
-Built by [Rannelle](https://github.com/RNLGWP) · Builder of e-commerce funnels & AI automations 🇵🇭
+Built by [Rannelle](https://github.com/BOSSRNL) · Builder of e-commerce funnels & AI automations 🇵🇭
